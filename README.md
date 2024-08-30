@@ -1,6 +1,6 @@
 # FridaGuard-Mobile
 
-**FridaGuard-Mobile** is an innovative solution that protects applications from unauthorized use of Frida scripts, ensuring that only authenticated users can perform analyses and pentests on sensitive apps. The solution involves two main components: an Android authentication app and the target app containing the Frida script.
+**FridaGuard-Mobile** is a solution that protects your frida script from unauthorized use. The solution involves two main components: an Android authentication application and the target application containing the Frida script.
 **Disclaimer:** I am not responsible for any damage to third party applications. This project is voluntary in nature and should be used with respect for applications developed by other professionals.
 
 ## Main Components:
