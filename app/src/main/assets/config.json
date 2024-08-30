@@ -1,0 +1,20 @@
+{
+  "splashTextSequence": true,
+  "loginApp": [
+    {
+      "title": "Login FridaGuard",
+      "titleInfo": "Welcome FridaGuard!"
+    }
+  ],
+  "timeExperienceForUsers": 2000,
+  "configs": [
+    {
+      "public-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoicHVibGljIiwicGVybWlzc2lvbnMiOlsicmVhZCJdLCJpYXQiOjE3MjQ2NDMxOTV9.BRV8NuejKLC0vlOEdpPxpzX-aT4Q8AjYIZYdlwjdK24"
+    },
+    {
+      "package-app": ""
+    },{
+      "url-server": "https://fridaguard-js.onrender.com"
+    }
+  ]
+}
