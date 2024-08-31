@@ -30,7 +30,7 @@
 
 ### Servidor Node.js
 
-- **Dependências:** O servidor Node.js requer `Express.js` e `MongoDB`. Você pode encontrar o código do servidor [aqui](https://github.com/Vitor-VX/fridaguard-js) (substitua pelo link do seu repositório real).
+- **Dependências:** O servidor Node.js requer `Express.js` e `MongoDB`. Você pode encontrar o código do servidor [aqui](https://github.com/Vitor-VX/fridaguard-js) (caso você use outro servidor, e postar esse fork no seu github substitua pelo link do seu repositório real).
 - **Instruções de Configuração:**
     1. Clone o repositório.
     2. Instale as dependências usando `npm install`.
