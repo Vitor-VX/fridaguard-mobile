@@ -30,7 +30,7 @@
 
 ### Node.js Server
 
-- **Dependencies:** The Node.js server requires `Express.js` and `MongoDB`. You can find the server code [here](https://github.com/Vitor-VX/fridaguard-js) (replace with your actual repository link).
+- **Dependencies:** The Node.js server requires `Express.js` and `MongoDB`. You can find the server code [here](https://github.com/Vitor-VX/fridaguard-js) (if you use another server, and post this fork on your github, replace it with the link to your real repository).
 - **Setup Instructions:**
     1. Clone the repository.
     2. Install dependencies using `npm install`.
@@ -67,7 +67,7 @@
     ]
   }
 
-## Casos de Uso:
+## Use Cases:
 
 - **Protection of Sensitive Applications:** Ideal for companies wanting to protect their applications from unauthorized analysis, ensuring that only authorized pentesters can perform security tests.
 - **Control Access to Analysis Tools:** Facilitates the management and control of who can use Frida scripts, preventing misuse.
